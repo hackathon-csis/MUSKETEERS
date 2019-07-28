@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863668509030",
+    "firebase_url": "https://musketeers-722a3.firebaseio.com",
+    "project_id": "musketeers-722a3",
+    "storage_bucket": "musketeers-722a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863668509030:android:3b67ad67916063a5",
+        "android_client_info": {
+          "package_name": "io.agora.openvcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863668509030-bc58r3ejbvricb8qk259vl6a0kkin8f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.agora.openvcall",
+            "certificate_hash": "fb38c63bad9cd94d423a3b33d636d1560539c701"
+          }
+        },
+        {
+          "client_id": "863668509030-gc3hh266vufcb1hv7g4o5jhrdlg6seri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpsw6CLTBx5JelZktB8lhKSrRoaMsyZt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863668509030-gc3hh266vufcb1hv7g4o5jhrdlg6seri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
